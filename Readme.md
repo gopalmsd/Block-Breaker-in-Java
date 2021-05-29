@@ -1,4 +1,4 @@
-# Brick Breaker In Java
+# Block-Breaker Game In Java
 
 ```yaml
     This Project Is Under MIT Licence
